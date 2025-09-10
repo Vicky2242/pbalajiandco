@@ -80,6 +80,7 @@ export function Header() {
               ))}
             </DropdownMenuContent>
           </DropdownMenu>
+           <NavLink href="/careers">Careers</NavLink>
           <NavLink href="/contact">Contact Us</NavLink>
         </nav>
         <div className="flex items-center gap-4 md:hidden">
