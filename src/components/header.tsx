@@ -123,6 +123,7 @@ export function Header() {
                       </AccordionContent>
                     </AccordionItem>
                   </Accordion>
+                  <Link href="/careers" className="hover:text-primary" onClick={() => setOpen(false)}>Careers</Link>
                   <Link href="/contact" className="hover:text-primary" onClick={() => setOpen(false)}>Contact Us</Link>
                 </div>
               </div>
