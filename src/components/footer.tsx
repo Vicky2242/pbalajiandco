@@ -41,8 +41,8 @@ export function Footer() {
             <ul className="mt-4 space-y-2 text-sm text-muted-foreground">
               <li>No. 125, PH Road,</li>
               <li>Maduravoyal, Chennai - 600 095.</li>
-              <li className="pt-2"><a href="mailto:contact@ascend.com" className="hover:text-primary">pbalaji&co@gmail.com</a></li>
-              <li><a href="tel:+1234567890" className="hover:text-primary">9551124463</a></li>
+              <li className="pt-2"><a href="mailto:pbalaji&co@gmail.com" className="hover:text-primary">pbalaji&co@gmail.com</a></li>
+              <li><a href="tel:+91 9551124463" className="hover:text-primary">9551124463</a></li>
             </ul>
           </div>
           <div>
