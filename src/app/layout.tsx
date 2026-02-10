@@ -15,8 +15,16 @@ const fontInter = Inter({
 
 
 export const metadata = {
-  title: "P Balaji & Co. | Chartered Accountants",
-  description: "Comprehensive financial services from P Balaji & Co., a leading chartered accountancy firm.",
+  title: "Chartered Accountants in Chennai | GST, Income Tax & Audit - P Balaji & Co.",
+  description: "P Balaji & Co. is a trusted Chartered Accountant firm in Chennai offering GST filing, income tax returns, audits, company registration & compliance services.",
+  keywords: [
+    "Chartered Accountant in Chennai",
+    "CA firm in Chennai",
+    "GST filing services",
+    "Income tax filing CA",
+    "Audit services",
+    "Company registration CA"
+  ],
   icons: {
     icon: '/favicon.ico',
   },
@@ -53,7 +61,7 @@ export default function RootLayout({
         </div>
         <Toaster />
          <Link
-          href="https://wa.me/9551124463"
+          href="https://wa.me/9551124463?text=Hi%20P%20Balaji%20%26%20Co.%2C%20I%20need%20CA%20services"
           target="_blank"
           rel="noopener noreferrer"
           className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-white shadow-lg transition-transform hover:scale-110"
